@@ -1,4 +1,6 @@
 .coverage
+.\#*
 sys*
 wx*
 wx.html*
+*.pyc
